@@ -29,7 +29,7 @@
   - 일상생활의 제품을 플라스틱이 적은 제품으로 변화시켜 지속가능한 일상 만들기<br>
 
 - 개발 환경 <br><br>
-![image](https://user-images.githubusercontent.com/102542087/200527348-e9a5645e-9444-4323-8b9c-45c0de15de03.png) <br>
+![image]() <br>
 
 ***
 
