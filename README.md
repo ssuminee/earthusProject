@@ -28,8 +28,8 @@
 ***
 
 # :star: 팀 소개 및 주요 기능
-![image](https://user-images.githubusercontent.com/103404357/192155698-c3bbcec1-de4d-42ef-bcce-9afc2e874f42.png)
-
+![image](https://user-images.githubusercontent.com/102542087/200527700-ed0c0090-681c-4f7c-a6c3-a6d59ca55050.png) <br>
+![image](https://user-images.githubusercontent.com/102542087/200527720-4736ddc7-9dca-42aa-9a20-36fbac66afd0.png) <br>
 
 
 ***
