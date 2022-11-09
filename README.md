@@ -51,17 +51,17 @@
 # :sparkles: 사용자
 
 ## :pushpin: 마이페이지
-
+![마이 페이지](https://user-images.githubusercontent.com/102542087/200756402-2cea8740-9fd3-4cc2-a583-e0c45370f347.gif) <br>
     
     
 ## 💻 회원 MVC 코드 페이지 이동
-- [Model}(https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/model)
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/model)
 - [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/member)
 - [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/controller)
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/member-mapper.xml)
 
 ## :pushpin: 회원 관리
- <br>
+![회원 관리](https://user-images.githubusercontent.com/102542087/200756303-0e0a3db7-d0af-4095-88c7-1640f11e7025.gif) <br>
 - 구현 기능 설명
     - 회원 가입(중복/유효성 검사 체크)(kakao map API)
     - 회원 정보 수정 (비밀번호 일치 여부를 판단해 수정 가능)
@@ -70,17 +70,19 @@
 ## :pushpin: 로그인/로그아웃
  <br>
 - 구현 기능 설명
-    - 
+    - 아이디 찾기
+    - 비밀번호 찾기(이메일 인증)
+    - 로그인/로그아웃
 
 
 ## 💻 공지사항 MVC 코드 페이지 이동
-- [Model}(https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/notice/model)
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/notice/model)
 - [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/cs/notice)
 - [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/notice/controller)
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 ## 💻 FAQ MVC 코드 페이지 이동
-- [Model}(https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/faq/model)
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/faq/model)
 - [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/cs/faq)
 - [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/faq/controller)
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
@@ -91,7 +93,7 @@
     - 
 
 ## 💻 Q&A MVC 코드 페이지 이동
-- [Model}(https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/model)
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/model)
 - [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/cs/qna)
 - [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/controller)
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
