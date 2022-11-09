@@ -68,10 +68,11 @@
     - 회원 탈퇴 (비밀번호 일치 여부 판단)
     
 ## :pushpin: 로그인/로그아웃
- <br>
+![로그인](https://user-images.githubusercontent.com/102542087/200803191-8229167f-6586-43de-bdb1-eb2d0cdb838d.gif) <br>
 - 구현 기능 설명
     - 아이디 찾기
     - 비밀번호 찾기(이메일 인증)
+    - 비밀번호 재설정
     - 로그인/로그아웃
 
 
@@ -88,9 +89,9 @@
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 ### 📌 공지사항/FAQ 조회
- <br>
+![공지사항](https://user-images.githubusercontent.com/102542087/200804000-0941a55b-d688-4dc2-b88f-50a7415df96f.gif) <br>
 - 구현 기능 설명
-    - 
+    - 공지사항/FAQ 카테고리별 조회 가능
 
 ## 💻 Q&A MVC 코드 페이지 이동
 - [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/model)
@@ -99,15 +100,18 @@
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 ### 📌 Q&A 조회/작성/수정/삭제
- <br>
+![Q A](https://user-images.githubusercontent.com/102542087/200810838-b0a198a8-e3b2-4154-9f83-bf6466d1cdd6.gif) <br>
 - 구현 기능 설명
-    - 
+    - Q&A 목록 조회
+    - Q&A 작성(비밀글로 작성 가능/첨부파일 첨부 가능)
+    - Q&A 수정/삭제
+    - 페이징 처리
 
 ### 📌 상품 검색
- <br>
+![상품 검색 (1)](https://user-images.githubusercontent.com/102542087/200816498-d8c0557a-e7ec-4b07-89d1-18c5a89c4190.gif) <br>
 - 구현 기능 설명
     - 메인 화면에서 상품 검색
-    - 카테고리별 
+    - 카테고리별 상품 검색 가능
     
 # :sparkles: 관리자
 
