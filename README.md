@@ -11,11 +11,11 @@
         - [회원 관리](#pushpin-회원-관리)
         - [로그인/로그아웃](#pushpin-로그인로그아웃)
         - [공지사항/FAQ 조회](#pushpin-공지사항faq-조회)
-        - [Q&A 조회/작성/수정/삭제](#pushpin-Q&A-조회작성수정삭제)
+        - [Q&A 작성/조회/수정/삭제](#pushpin-Q&A-작성조회수정삭제)
         - [상품 검색](#pushpin-상품-검색)
      - 관리자
         - [회원 정보 조회/수정/삭제](#pushpin-회원-정보-조회수정삭제)
-        - [공지사항/FAQ 조회/작성/삭제](#pushpin-공지사항/faq-조회작성삭제)
+        - [공지사항/FAQ 작성/조회/수정/삭제](#pushpin-공지사항/faq-작성조회삭제)
         - [Q&A 조회/답변/삭제](#pushpin-Q&A-조회답변삭제)
    
 3. [Document](#star-document)
@@ -96,8 +96,8 @@
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 
-### 📌 Q&A 조회/작성/수정/삭제
-![Q A](https://user-images.githubusercontent.com/102542087/200810838-b0a198a8-e3b2-4154-9f83-bf6466d1cdd6.gif) <br>
+### 📌 Q&A 작성/조회/수정/삭제
+![q a2](https://user-images.githubusercontent.com/102542087/200824614-d73bdc5b-19d5-4307-8783-fe32948e1562.gif) <br>
 - 구현 기능 설명
     - Q&A 목록 조회
     - Q&A 작성(비밀글로 작성 가능/첨부파일 첨부 가능)
@@ -122,17 +122,20 @@
 ### 📌 회원 정보 조회/수정/삭제
  <br>
 - 구현 기능 설명
-    - 
+    - 전체 회원 목록 조회/검색 (아이디/이름을 키워드로 검색)
+    - 회원 선택/개별 삭제/복구
+  
     
-### 📌 공지사항/FAQ 조회/작성/삭제
+### 📌 공지사항/FAQ 작성/조회/수정/삭제
  <br>
 - 구현 기능 설명
-    - 
+    - 게시글 작성/조회/수정/삭제
 
 ### 📌 Q&A 조회/답변/삭제
  <br>
 - 구현 기능 설명
-    - 
+    - 게시글 조회/삭제
+    - 게시글 답변
     
 </details>
 
