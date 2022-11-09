@@ -6,14 +6,16 @@
 2. [팀 소개 및 주요 기능](#star-팀-소개-및-주요-기능)
 3. [구현 기능](#star-구현-기능)
     - 사용자
-        - [메인페이지](#pushpin-메인페이지)
-        - [사용자-회원관리](#pushpin-)
-    - [사용자-](#pushpin-)
-    - [](#pushpin-)
-    - [](#pushpin-)
-    - [](#pushpin-)
-    - [](#pushpin-)
-    - [](#pushpin-)
+     - [메인페이지](#pushpin-메인페이지)
+        - [회원 관리](#pushpin-)
+        - [로그인/로그아웃](#pushpin-)
+        - [공지사항/FAQ](#pushpin-)
+        - [Q&A](#pushpin-)
+        - [상품 검색](#pushpin-)
+     - 관리자
+        - [회원 정보 조회/수정/삭제](#pushpin-)
+        - [공지사항/FAQ 조회/작성/삭제](#pushpin-)
+        - [Q&A 조회/답변/삭제](#pushpin-)
    
 3. [Document](#star-document)
 
