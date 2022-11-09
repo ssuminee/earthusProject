@@ -54,18 +54,20 @@
 ![마이 페이지](https://user-images.githubusercontent.com/102542087/200756402-2cea8740-9fd3-4cc2-a583-e0c45370f347.gif) <br>
     
     
-## 💻 회원 MVC 코드 페이지 이동
-- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/model)
-- [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/member)
-- [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/controller)
-- [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/member-mapper.xml)
-
 ## :pushpin: 회원 관리
 ![회원 관리](https://user-images.githubusercontent.com/102542087/200756303-0e0a3db7-d0af-4095-88c7-1640f11e7025.gif) <br>
 - 구현 기능 설명
     - 회원 가입(중복/유효성 검사 체크)(kakao map API)
     - 회원 정보 수정 (비밀번호 일치 여부를 판단해 수정 가능)
     - 회원 탈퇴 (비밀번호 일치 여부 판단)
+
+
+## 💻 회원 MVC 코드 페이지 이동
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/model)
+- [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/member)
+- [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/controller)
+- [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/member-mapper.xml)
+
     
 ## :pushpin: 로그인/로그아웃
 ![로그인](https://user-images.githubusercontent.com/102542087/200803191-8229167f-6586-43de-bdb1-eb2d0cdb838d.gif) <br>
@@ -76,7 +78,12 @@
     - 로그인/로그아웃
 
 
-## 💻 공지사항 MVC 코드 페이지 이동
+### 📌 공지사항/FAQ 조회
+![공지사항](https://user-images.githubusercontent.com/102542087/200804000-0941a55b-d688-4dc2-b88f-50a7415df96f.gif) <br>
+- 구현 기능 설명
+    - 공지사항/FAQ 카테고리별 조회 가능
+ 
+ ## 💻 공지사항 MVC 코드 페이지 이동
 - [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/notice/model)
 - [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/cs/notice)
 - [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/notice/controller)
@@ -88,16 +95,6 @@
 - [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/faq/controller)
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
-### 📌 공지사항/FAQ 조회
-![공지사항](https://user-images.githubusercontent.com/102542087/200804000-0941a55b-d688-4dc2-b88f-50a7415df96f.gif) <br>
-- 구현 기능 설명
-    - 공지사항/FAQ 카테고리별 조회 가능
-
-## 💻 Q&A MVC 코드 페이지 이동
-- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/model)
-- [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/cs/qna)
-- [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/controller)
-- [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 ### 📌 Q&A 조회/작성/수정/삭제
 ![Q A](https://user-images.githubusercontent.com/102542087/200810838-b0a198a8-e3b2-4154-9f83-bf6466d1cdd6.gif) <br>
@@ -106,6 +103,13 @@
     - Q&A 작성(비밀글로 작성 가능/첨부파일 첨부 가능)
     - Q&A 수정/삭제
     - 페이징 처리
+ 
+ ## 💻 Q&A MVC 코드 페이지 이동
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/model)
+- [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/cs/qna)
+- [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/cs/qna/controller)
+- [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
+
 
 ### 📌 상품 검색
 ![상품 검색 (1)](https://user-images.githubusercontent.com/102542087/200816498-d8c0557a-e7ec-4b07-89d1-18c5a89c4190.gif) <br>
