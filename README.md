@@ -61,13 +61,6 @@
     - 회원 정보 수정 (비밀번호 일치 여부를 판단해 수정 가능)
     - 회원 탈퇴 (비밀번호 일치 여부 판단)
 
-
-## 💻 회원 MVC 코드 페이지 이동
-- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/model)
-- [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/member)
-- [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/controller)
-- [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/member-mapper.xml)
-
     
 ## :pushpin: 로그인/로그아웃
 ![로그인](https://user-images.githubusercontent.com/102542087/200803191-8229167f-6586-43de-bdb1-eb2d0cdb838d.gif) <br>
@@ -76,6 +69,13 @@
     - 비밀번호 찾기(이메일 인증)
     - 비밀번호 재설정
     - 로그인/로그아웃
+ 
+ 
+## 💻 회원 MVC 코드 페이지 이동
+- [Model](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/model)
+- [View](https://github.com/ssuminee/earthusProject/tree/main/src/main/webapp/views/member)
+- [Controller](https://github.com/ssuminee/earthusProject/tree/main/src/main/java/com/us/member/controller)
+- [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/member-mapper.xml)
 
 
 ### 📌 공지사항/FAQ 조회
