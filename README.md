@@ -14,9 +14,9 @@
         - [Q&A 작성/조회/수정/삭제](#pushpin-Q&A-작성조회수정삭제)
         - [상품 검색](#pushpin-상품-검색)
      - 관리자
-        - [회원 정보 조회/수정/삭제](#pushpin-회원-정보-조회수정삭제)
+        - [회원 조회/삭제/복구](#pushpin-회원-정보-조회수정삭제)
         - [공지사항/FAQ 작성/조회/수정/삭제](#pushpin-공지사항/faq-작성조회삭제)
-        - [Q&A 조회/답변/삭제](#pushpin-Q&A-조회답변삭제)
+        - [Q&A 조회/수정/답변/삭제](#pushpin-Q&A-조회답변삭제)
    
 3. [Document](#star-document)
 
@@ -119,23 +119,23 @@
     
 # :sparkles: 관리자
 
-### 📌 회원 정보 조회/수정/삭제
- <br>
+### 📌 회원 조회/삭제/복구
+![관리자회원](https://user-images.githubusercontent.com/102542087/201005209-f6639187-85cc-41a3-be6e-ab7d3cd9bc7e.gif) <br>
 - 구현 기능 설명
     - 전체 회원 목록 조회/검색 (아이디/이름을 키워드로 검색)
     - 회원 선택/개별 삭제/복구
   
     
 ### 📌 공지사항/FAQ 작성/조회/수정/삭제
- <br>
+![관리자공지](https://user-images.githubusercontent.com/102542087/201007350-51874ead-f9ee-45c5-bf4a-e862275fda7f.gif) <br>
 - 구현 기능 설명
     - 게시글 작성/조회/수정/삭제
 
-### 📌 Q&A 조회/답변/삭제
- <br>
+### 📌 Q&A 조회/수정/답변/삭제
+![관리자Q](https://user-images.githubusercontent.com/102542087/201009429-556799c2-3a57-4cfc-8c4b-1aaa4389bff8.gif) <br>
 - 구현 기능 설명
     - 게시글 조회/삭제
-    - 게시글 답변
+    - 게시글 답변/수정
     
 </details>
 
