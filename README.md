@@ -25,7 +25,7 @@
 # :star: 개요
 - 프로젝트명 : EarthUs <br>
 
-- 보고서 : [EarthUs_지구지켜조_최종보고서.pdf](https://github.com/wwndbs/earthusProject/files/9958924/EarthUs_._.pdf) <br>
+- 보고서 : [EarthUs_최종보고서.pdf](https://github.com/wwndbs/earthusProject/files/9977971/EarthUs_.pdf) <br>
 
 - 기획 의도  <br>
   - 제로웨이스트 인식 개선 및 커뮤니티 활성화 <br>
