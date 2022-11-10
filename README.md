@@ -78,7 +78,7 @@
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/member-mapper.xml)
 
 
-### 📌 공지사항/FAQ 조회
+## :pushpin: 공지사항/FAQ 조회
 ![공지사항](https://user-images.githubusercontent.com/102542087/200804000-0941a55b-d688-4dc2-b88f-50a7415df96f.gif) <br>
 - 구현 기능 설명
     - 공지사항/FAQ 카테고리별 조회 가능
@@ -96,7 +96,7 @@
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 
-### 📌 Q&A 작성/조회/수정/삭제
+## :pushpin: Q&A 작성/조회/수정/삭제
 ![q a2](https://user-images.githubusercontent.com/102542087/200824614-d73bdc5b-19d5-4307-8783-fe32948e1562.gif) <br>
 - 구현 기능 설명
     - Q&A 목록 조회
@@ -111,7 +111,7 @@
 - [Mapper](https://github.com/ssuminee/earthusProject/blob/main/src/main/java/db/sql/customerService-mapper.xml)
 
 
-### 📌 상품 검색
+## :pushpin: 상품 검색
 ![상품 검색 (1)](https://user-images.githubusercontent.com/102542087/200816498-d8c0557a-e7ec-4b07-89d1-18c5a89c4190.gif) <br>
 - 구현 기능 설명
     - 메인 화면에서 상품 검색
@@ -119,19 +119,19 @@
     
 # :sparkles: 관리자
 
-### 📌 회원 조회/삭제/복구
+## :pushpin: 회원 조회/삭제/복구
 ![관리자회원](https://user-images.githubusercontent.com/102542087/201005209-f6639187-85cc-41a3-be6e-ab7d3cd9bc7e.gif) <br>
 - 구현 기능 설명
     - 전체 회원 목록 조회/검색 (아이디/이름을 키워드로 검색)
     - 회원 선택/개별 삭제/복구
   
     
-### 📌 공지사항/FAQ 작성/조회/수정/삭제
+## :pushpin: 공지사항/FAQ 작성/조회/수정/삭제
 ![관리자공지](https://user-images.githubusercontent.com/102542087/201007350-51874ead-f9ee-45c5-bf4a-e862275fda7f.gif) <br>
 - 구현 기능 설명
     - 게시글 작성/조회/수정/삭제
 
-### 📌 Q&A 조회/수정/답변/삭제
+## :pushpin: Q&A 조회/수정/답변/삭제
 ![관리자Q](https://user-images.githubusercontent.com/102542087/201009429-556799c2-3a57-4cfc-8c4b-1aaa4389bff8.gif) <br>
 - 구현 기능 설명
     - 게시글 조회/삭제
